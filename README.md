@@ -21,4 +21,7 @@ Malls 🏬 | Hospitals 🏥 | Events 🎟️ | Offices 🧑‍💼
 
 > Built to capture moments, not just opinions.
 
+📦 Uploaded  
+🔗 [Project on Hackster](https://www.hackster.io/531285/smart-public-feedback-system-ef4b8d)
+
 ---
